@@ -12,10 +12,13 @@ This machine learning project uses logistic regression to predict whether a stud
 - Outputs human-readable prediction results
 
 ## Project Structure
-
 student-pass-predictor/
-├── StudentPassPredictor.ipynb # Jupyter notebook with all code
-├── requirements.txt # Package dependencies
+├── StudentPassPredictor.ipynb 
+
+# Jupyter notebook with all code
+├── requirements.txt 
+
+# Package dependencies
 ├── README.md # This file
 └── data/
 └── students.csv # Dataset used in the project
